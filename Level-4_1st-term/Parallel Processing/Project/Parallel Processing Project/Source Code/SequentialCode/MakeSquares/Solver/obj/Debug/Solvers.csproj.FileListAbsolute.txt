@@ -1,0 +1,21 @@
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Solver\bin\Debug\Solver.dll
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Solver\bin\Debug\Solver.pdb
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Solver\bin\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Solver\bin\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Solver\obj\Debug\Solver.dll
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Solver\obj\Debug\Solver.pdb
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Solver\obj\Debug\Solvers.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Solver\bin\Debug\Solver.dll
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Solver\bin\Debug\Solver.pdb
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Solver\bin\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Solver\bin\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Solver\obj\Debug\Solvers.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Solver\obj\Debug\Solver.dll
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Solver\obj\Debug\Solver.pdb
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Solver\bin\Debug\Solver.dll
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Solver\bin\Debug\Solver.pdb
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Solver\bin\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Solver\bin\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Solver\obj\Debug\Solvers.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Solver\obj\Debug\Solver.dll
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Solver\obj\Debug\Solver.pdb

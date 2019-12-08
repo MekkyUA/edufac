@@ -1,0 +1,12 @@
+D:\Projects\C#\PuzzleProblem\PuzzleSequential\bin\Debug\PuzzleSequential.exe.config
+D:\Projects\C#\PuzzleProblem\PuzzleSequential\bin\Debug\PuzzleSequential.exe
+D:\Projects\C#\PuzzleProblem\PuzzleSequential\bin\Debug\PuzzleSequential.pdb
+D:\Projects\C#\PuzzleProblem\PuzzleSequential\obj\Debug\PuzzleSequential.csprojResolveAssemblyReference.cache
+D:\Projects\C#\PuzzleProblem\PuzzleSequential\obj\Debug\PuzzleSequential.exe
+D:\Projects\C#\PuzzleProblem\PuzzleSequential\obj\Debug\PuzzleSequential.pdb
+C:\Users\Mahmoud Hamed\Desktop\PuzzleSequential\bin\Debug\PuzzleSequential.exe.config
+C:\Users\Mahmoud Hamed\Desktop\PuzzleSequential\obj\Debug\PuzzleSequential.exe
+C:\Users\Mahmoud Hamed\Desktop\PuzzleSequential\obj\Debug\PuzzleSequential.pdb
+C:\Users\Mahmoud Hamed\Desktop\PuzzleSequential\bin\Debug\PuzzleSequential.exe
+C:\Users\Mahmoud Hamed\Desktop\PuzzleSequential\bin\Debug\PuzzleSequential.pdb
+C:\Users\Mahmoud Hamed\Desktop\PuzzleSequential\obj\Debug\PuzzleSequential.csprojResolveAssemblyReference.cache

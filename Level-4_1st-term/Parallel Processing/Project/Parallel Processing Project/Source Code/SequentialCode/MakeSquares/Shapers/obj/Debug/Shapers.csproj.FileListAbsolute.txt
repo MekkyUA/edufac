@@ -1,0 +1,13 @@
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Shapers\bin\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Shapers\bin\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Shapers\obj\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\MakeSquares\Shapers\obj\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Shapers\bin\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Shapers\bin\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Shapers\obj\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\ParallelCode\MakeSquares\Shapers\obj\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Shapers\bin\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Shapers\bin\Debug\Shapers.pdb
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Shapers\obj\Debug\Shapers.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Shapers\obj\Debug\Shapers.dll
+C:\Users\Mahmoud Hamed\Desktop\Parallel Processing\SequentialCode\MakeSquares\Shapers\obj\Debug\Shapers.pdb

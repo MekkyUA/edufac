@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeSquares", "MakeSquares\MakeSquares.csproj", "{133268BC-5A6B-4DBD-91C8-B624F816FDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapers", "Shapers\Shapers.csproj", "{2EEB2F56-3A0E-46EE-A35B-217CD0F764A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solvers", "Solver\Solvers.csproj", "{35F7FD9B-75BD-4380-AD27-FA053A8E0832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133268BC-5A6B-4DBD-91C8-B624F816FDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133268BC-5A6B-4DBD-91C8-B624F816FDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133268BC-5A6B-4DBD-91C8-B624F816FDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133268BC-5A6B-4DBD-91C8-B624F816FDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEB2F56-3A0E-46EE-A35B-217CD0F764A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEB2F56-3A0E-46EE-A35B-217CD0F764A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEB2F56-3A0E-46EE-A35B-217CD0F764A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEB2F56-3A0E-46EE-A35B-217CD0F764A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F7FD9B-75BD-4380-AD27-FA053A8E0832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F7FD9B-75BD-4380-AD27-FA053A8E0832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F7FD9B-75BD-4380-AD27-FA053A8E0832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F7FD9B-75BD-4380-AD27-FA053A8E0832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

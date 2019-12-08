@@ -1,0 +1,8 @@
+1- 5x5 Square GUI to add shapes (apply constraints);
+2- every shape will be List<Points>();
+3- sum Lists.Count must be in (1,4,9,16,25) otherwise cannot be solved;
+4- get all shapes' possible distinct rotations;
+5- get all possible positions by changing all Xs OR all Ys
+for every possible rotation for each shape;
+6- regards to prev point get all possible unions that fill
+the outer sqaure with 1s without any intersection -> Show the results. :)
